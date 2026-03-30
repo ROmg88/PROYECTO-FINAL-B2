@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260328201203NC6PIJ</value>
+    <value>202603302021259NJ0FW</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202603282012032G0XQ0</value>
+    <value>20260330202125P367XY</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1774724633286</value>
+    <value>1774893864032</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -89,33 +89,43 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>d7169b80-4a0e-4ce7-b238-3f215150d4b2</odePageId>
-  <odeParentPageId></odeParentPageId>
-  <pageName>Página nueva</pageName>
-  <odeNavStructureOrder>0</odeNavStructureOrder>
-  <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Página nueva</value>
-    </odeNavStructureProperty>
-  </odeNavStructureProperties>
-  <odePagStructures>
-  </odePagStructures>
-</odeNavStructure>
-<odeNavStructure>
-  <odePageId>page-1774721483432-uxs05iipk</odePageId>
+  <odePageId>page-mndhzadb-2peg734uu</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>PRESENTACIÓN E INICIO</pageName>
-  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>PRESENTACIÓN E INICIO</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN E INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1774721483432-uxs05iipk</odePageId>
+      <odePageId>page-mndhzadb-2peg734uu</odePageId>
       <odeBlockId>block-1774721951982-hexliuyzu</odeBlockId>
       <blockName>INICIO</blockName>
       <iconName></iconName>
@@ -144,7 +154,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774721483432-uxs05iipk</odePageId>
+          <odePageId>page-mndhzadb-2peg734uu</odePageId>
           <odeBlockId>block-1774721951982-hexliuyzu</odeBlockId>
           <odeIdeviceId>idevice-1774721951979-f4sygb78w</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -154,10 +164,24 @@
 <p style="text-align: justify;">Identificar animales y sus hábitats (granja, bosque, selva, mar).<br />Reconocer sus colores, sonidos y alimentación.<br />Clasificar si son domésticos, salvajes, acuáticos o voladores.<br />Escribir sus nombres en letras minúsculas.<br />Disfrutar usando juegos interactivos en la pizarra digital.<br />📚 Áreas implicadas<br />Trabajaremos de forma globalizada las tres áreas de Infantil:</p>
 <p style="text-align: justify;">Crecimiento en Armonía: Fomentando tu autonomía.<br />Descubrimiento y Exploración del Entorno: Conociendo la naturaleza.<br />Comunicación y Representación de la Realidad: A través de la lectura, el arte y las herramientas digitales.</p>
 <p style="text-align: justify;">Contenidos creados por Rocío Moreno García. Licencia CC BY-NC-SA 4.0.</p>
+<p style="text-align: justify;">DESCARGAR AQUÍ:</p>
+<p style="text-align: justify;"><a href="{{context_path}}/content/resources/los-animales---infantil-5-anos_1.elpx" title="los-animales---infantil-5-anos.elpx" id="link_1">{{context_path}}/content/resources/los-animales---infantil-5-anos_1.elpx</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774721951979-f4sygb78w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🐾 Proyecto: \"LOS ANIMALES\"<br />🌟 Bienvenidos a nuestra aventura<br />¡Hola, pequeños exploradores! En este proyecto vamos a descubrir el increíble mundo de los animales. Aprenderemos dónde viven, qué comen y cómo se escriben sus nombres mientras usamos la pizarra mágica y las tablets.</p>\n<p style=\"text-align: justify;\"> <br />📍 Datos del Proyecto<br />Nivel: Educación Infantil (5 años).<br />Temporalización: 15 sesiones durante el segundo trimestre.<br />Idiomas: Español y aproximación al Inglés.<br />🎯 ¿Qué vamos a aprender?<br />Queremos que al terminar este viaje seas capaz de:</p>\n<p style=\"text-align: justify;\">Identificar animales y sus hábitats (granja, bosque, selva, mar).<br />Reconocer sus colores, sonidos y alimentación.<br />Clasificar si son domésticos, salvajes, acuáticos o voladores.<br />Escribir sus nombres en letras minúsculas.<br />Disfrutar usando juegos interactivos en la pizarra digital.<br />📚 Áreas implicadas<br />Trabajaremos de forma globalizada las tres áreas de Infantil:</p>\n<p style=\"text-align: justify;\">Crecimiento en Armonía: Fomentando tu autonomía.<br />Descubrimiento y Exploración del Entorno: Conociendo la naturaleza.<br />Comunicación y Representación de la Realidad: A través de la lectura, el arte y las herramientas digitales.</p>\n<p style=\"text-align: justify;\">Contenidos creados por Rocío Moreno García. Licencia CC BY-NC-SA 4.0.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774721951979-f4sygb78w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🐾 Proyecto: \"LOS ANIMALES\"<br />🌟 Bienvenidos a nuestra aventura<br />¡Hola, pequeños exploradores! En este proyecto vamos a descubrir el increíble mundo de los animales. Aprenderemos dónde viven, qué comen y cómo se escriben sus nombres mientras usamos la pizarra mágica y las tablets.</p>\n<p style=\"text-align: justify;\"> <br />📍 Datos del Proyecto<br />Nivel: Educación Infantil (5 años).<br />Temporalización: 15 sesiones durante el segundo trimestre.<br />Idiomas: Español y aproximación al Inglés.<br />🎯 ¿Qué vamos a aprender?<br />Queremos que al terminar este viaje seas capaz de:</p>\n<p style=\"text-align: justify;\">Identificar animales y sus hábitats (granja, bosque, selva, mar).<br />Reconocer sus colores, sonidos y alimentación.<br />Clasificar si son domésticos, salvajes, acuáticos o voladores.<br />Escribir sus nombres en letras minúsculas.<br />Disfrutar usando juegos interactivos en la pizarra digital.<br />📚 Áreas implicadas<br />Trabajaremos de forma globalizada las tres áreas de Infantil:</p>\n<p style=\"text-align: justify;\">Crecimiento en Armonía: Fomentando tu autonomía.<br />Descubrimiento y Exploración del Entorno: Conociendo la naturaleza.<br />Comunicación y Representación de la Realidad: A través de la lectura, el arte y las herramientas digitales.</p>\n<p style=\"text-align: justify;\">Contenidos creados por Rocío Moreno García. Licencia CC BY-NC-SA 4.0.</p>\n<p style=\"text-align: justify;\">DESCARGAR AQUÍ:</p>\n<p style=\"text-align: justify;\"><a href=\"{{context_path}}/content/resources/los-animales---infantil-5-anos_1.elpx\" title=\"los-animales---infantil-5-anos.elpx\" id=\"link_1\">{{context_path}}/content/resources/los-animales---infantil-5-anos_1.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -165,19 +189,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1774721499200-zhnhu2qp2</odePageId>
+  <odePageId>page-mndhzadd-cozdml6q0</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>PROTECCIÓN DE DATOS</pageName>
-  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>PROTECCIÓN DE DATOS</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1774721499200-zhnhu2qp2</odePageId>
+      <odePageId>page-mndhzadd-cozdml6q0</odePageId>
       <odeBlockId>block-1774722301250-4chqvrq3x</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -206,21 +254,33 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774721499200-zhnhu2qp2</odePageId>
+          <odePageId>page-mndhzadd-cozdml6q0</odePageId>
           <odeBlockId>block-1774722301250-4chqvrq3x</odeBlockId>
           <odeIdeviceId>idevice-1774722301246-6nhpabeoy</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHD12uSnRo/JWL0ilXUvcnd7uJjOKkvig/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe></div>
-<p><a href="https://www.canva.com/design/DAHD12uSnRo/JWL0ilXUvcnd7uJjOKkvig/view?utm_content=DAHD12uSnRo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">infografia Animales peligro extincion ilustrado crema</a> de Rocío</p>
+<p><a href="https://www.canva.com/design/DAHD12uSnRo/JWL0ilXUvcnd7uJjOKkvig/view?utm_content=DAHD12uSnRo&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">infografia Animales peligro extincion ilustrado crema</a> de Rocío</p>
 <p style="text-align: justify;"></p>
 <p style="text-align: justify;">🔒 Navegamos Seguros en nuestro Safari<br />En este proyecto "Los Animales", aprendemos a usar internet de forma responsable:</p>
 <p style="text-align: justify;">Nuestras fotos y trabajos: Solo compartimos lo que vuestras familias han autorizado.<br />Identidad Digital: No usamos apellidos ni datos personales en las herramientas digitales (Canva, Padlet, etc.) para que estéis siempre protegidos.<br />Respeto: Aprendemos que las imágenes y vídeos que usamos tienen un autor al que debemos respetar.<br />Nota para las familias: Esta Unidad cumple con la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774722301246-6nhpabeoy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHD12uSnRo/JWL0ilXUvcnd7uJjOKkvig/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHD12uSnRo/JWL0ilXUvcnd7uJjOKkvig/view?utm_content=DAHD12uSnRo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">infografia Animales peligro extincion ilustrado crema</a> de Rocío</p>\n<p style=\"text-align: justify;\"></p>\n<p style=\"text-align: justify;\">🔒 Navegamos Seguros en nuestro Safari<br />En este proyecto \"Los Animales\", aprendemos a usar internet de forma responsable:</p>\n<p style=\"text-align: justify;\">Nuestras fotos y trabajos: Solo compartimos lo que vuestras familias han autorizado.<br />Identidad Digital: No usamos apellidos ni datos personales en las herramientas digitales (Canva, Padlet, etc.) para que estéis siempre protegidos.<br />Respeto: Aprendemos que las imágenes y vídeos que usamos tienen un autor al que debemos respetar.<br />Nota para las familias: Esta Unidad cumple con la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774722301246-6nhpabeoy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHD12uSnRo/JWL0ilXUvcnd7uJjOKkvig/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHD12uSnRo/JWL0ilXUvcnd7uJjOKkvig/view?utm_content=DAHD12uSnRo&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">infografia Animales peligro extincion ilustrado crema</a> de Rocío</p>\n<p style=\"text-align: justify;\"></p>\n<p style=\"text-align: justify;\">🔒 Navegamos Seguros en nuestro Safari<br />En este proyecto \"Los Animales\", aprendemos a usar internet de forma responsable:</p>\n<p style=\"text-align: justify;\">Nuestras fotos y trabajos: Solo compartimos lo que vuestras familias han autorizado.<br />Identidad Digital: No usamos apellidos ni datos personales en las herramientas digitales (Canva, Padlet, etc.) para que estéis siempre protegidos.<br />Respeto: Aprendemos que las imágenes y vídeos que usamos tienen un autor al que debemos respetar.<br />Nota para las familias: Esta Unidad cumple con la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -228,19 +288,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1774721606728-apji71f36</odePageId>
+  <odePageId>page-mndhzadf-2pakvcakm</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>GUÍA DIDÁCTICA</pageName>
-  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>GUÍA DIDÁCTICA</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1774721606728-apji71f36</odePageId>
+      <odePageId>page-mndhzadf-2pakvcakm</odePageId>
       <odeBlockId>block-1774722749651-0626d0dn8</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -269,7 +353,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774721606728-apji71f36</odePageId>
+          <odePageId>page-mndhzadf-2pakvcakm</odePageId>
           <odeBlockId>block-1774722749651-0626d0dn8</odeBlockId>
           <odeIdeviceId>idevice-1774722749648-1oa7ghdpg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -285,6 +369,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1774722749648-1oa7ghdpg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><br />📖 Guía Didáctica para el Docente<br />💡 Justificación Pedagógica <br />Este proyecto para Infantil de 5 años nace del interés natural de los niños por los animales. El objetivo es trabajar de forma globalizada las tres áreas de Infantil, integrando la competencia digital desde el inicio. Aplicamos los principios DUA ofreciendo información visual (fotos), auditiva (sonidos) y manipulativa (arrastrar elementos en la PDI). </p>\n<p style=\"text-align: justify;\">Esta secuencia está diseñada para las 15 sesiones previstas en el segundo trimestre. </p>\n<p>🎯 Relación de Tareas y Criterios </p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" title=\"Tabla de relación de tareas, criterios de evaluación y herramientas TIC del proyecto Los Animales.\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" title=\"Tabla de relación de tareas, criterios de evaluación y herramientas TIC del proyecto Los Animales,\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" title=\"Tabla de relación de tareas, criterios de evaluación y herramientas TIC del proyecto Los Animales.\" /></p>\n<p style=\"text-align: justify;\"> Orientaciones Metodológicas<br />Papel del docente: Guía y facilitador en el uso de las TIC.<br />Agrupamientos: Gran grupo para la PDI y pequeños grupos para las tablets.<br />Atención a la diversidad: Se utilizan apoyos visuales y auditivos constantes para que ningún niño se quede atrás, independientemente de su nivel de lectoescritura.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -292,19 +388,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1774721515220-bkzob5xy3</odePageId>
+  <odePageId>page-mndhzadi-twlpx9wck</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>PRODUCTO FINAL</pageName>
-  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>PRODUCTO FINAL</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1774721515220-bkzob5xy3</odePageId>
+      <odePageId>page-mndhzadi-twlpx9wck</odePageId>
       <odeBlockId>block-1774722540371-xxop7jx0z</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -333,7 +453,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774721515220-bkzob5xy3</odePageId>
+          <odePageId>page-mndhzadi-twlpx9wck</odePageId>
           <odeBlockId>block-1774722540371-xxop7jx0z</odeBlockId>
           <odeIdeviceId>idevice-1774722540368-jk4971c5i</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -346,6 +466,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1774722540368-jk4971c5i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">🏆 Nuestro Gran Reto: \"Lo que sé de los animales\"<br />Para terminar nuestra aventura, vamos a crear un Producto Final doble que combina diseño e interactividad.</p>\n<p style=\"text-align: justify;\">🎨 Parte 1: Nuestra Infografía en Canva<br />De forma guiada, diseñaremos una Infografía Visual.</p>\n<p style=\"text-align: justify;\">¿Qué haremos? Colocaremos fotos de los animales investigados y escribiremos sus nombres en minúsculas.<br />Objetivo: Trabajar la síntesis visual y la lectoescritura digital.<br />🖱️ Parte 2: Mural Interactivo en Genially<br />Convertiremos nuestra infografía en un mural \"vivo\".</p>\n<p style=\"text-align: justify;\">¿Qué haremos? Añadiremos \"puntos calientes\". Al pulsar, escucharemos los sonidos de los animales, veremos vídeos de sus hábitats y cantaremos sus canciones.<br /> <br />🧐 ¿Por qué estas herramientas? (Justificación Pedagógica)<br />Versatilidad: Canva facilita el diseño con plantillas sencillas y Genially aporta la interactividad necesaria para niños de 5 años.<br />Competencia Digital: Iniciamos al alumnado en el lenguaje multimedia (estética, organización y causa-efecto).<br />Accesibilidad y DUA: Es una propuesta inclusiva. Los apoyos visuales ayudan a quienes tienen dificultades con el idioma, y los sonidos (audio) garantizan que todos accedan a la información aunque no sepan leer todavía.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -353,19 +485,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1774721546133-xgo7hw4fs</odePageId>
+  <odePageId>page-mndhzadj-zphokvrr2</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>CONTENIDOS/RECURSOS</pageName>
-  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>CONTENIDOS/RECURSOS</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONTENIDOS/RECURSOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1774721546133-xgo7hw4fs</odePageId>
+      <odePageId>page-mndhzadj-zphokvrr2</odePageId>
       <odeBlockId>block-1774723331850-ot3fy4hpx</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -394,7 +550,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774721546133-xgo7hw4fs</odePageId>
+          <odePageId>page-mndhzadj-zphokvrr2</odePageId>
           <odeBlockId>block-1774723331850-ot3fy4hpx</odeBlockId>
           <odeIdeviceId>idevice-1774723331844-pvd93q3j1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -408,6 +564,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1774723331844-pvd93q3j1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Para que nuestro proyecto sea seguro y organizado, hemos seleccionado las mejores herramientas digitales adaptadas a nuestra clase.</p>\n<p style=\"text-align: justify;\"> 1. Recursos para el Alumnado: \"Lo que sé de los animales\"<br />Este es nuestro muro visual donde investigaremos y aprenderemos a usar las herramientas del reto final.</p>\n<p style=\"text-align: justify;\">Herramienta: Padlet.<br id=\"link_0\" />Enlace al recurso: <a href=\"https://padlet.com/larubia_911/lo-que-s-de-los-animales-r3cxol6k8r5utv25\">Haz clic aquí para ver nuestro Padlet</a><br />Justificación: He seleccionado recursos visuales, sonoros y tutoriales específicos para que el alumnado de 5 años investigue y aprenda a usar Canva y Genially con ayuda del docente y las familias.<br />👩‍🏫 2. Recursos para la Gestión Docente<br />Un espacio de organización con las herramientas que usamos cada día en el aula para que otros profes también puedan usarlas.</p>\n<p style=\"text-align: justify;\">Herramienta: Wakelet.<br id=\"link_1\" />Enlace al recurso: <a href=\"https://wakelet.com/wake/a6cAypPbKSxa9ehh8Q5vs\">Haz clic aquí para ver mi Wakelet</a><br />Justificación: Recopilación de herramientas para la gestión diaria (Wordwall para gamificación, Canva para materiales manipulativos y Genially para contenidos interactivos). Esta curación permite a otros docentes enriquecer sus prácticas con herramientas probadas en el aula de Infantil.</p>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -415,19 +583,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1774721563834-pqt3qm2tm</odePageId>
+  <odePageId>page-mndhzadk-9porxdqpw</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>LÍNEA TEMPORAL</pageName>
-  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>LÍNEA TEMPORAL</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1774721563834-pqt3qm2tm</odePageId>
+      <odePageId>page-mndhzadk-9porxdqpw</odePageId>
       <odeBlockId>block-1774723710537-0lbfv48r6</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -456,7 +648,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774721563834-pqt3qm2tm</odePageId>
+          <odePageId>page-mndhzadk-9porxdqpw</odePageId>
           <odeBlockId>block-1774723710537-0lbfv48r6</odeBlockId>
           <odeIdeviceId>idevice-1774723710537-xhxzpatit</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -466,11 +658,23 @@
 <p>LÍNEA TEMPORAL</p>
 <div style="position: relative; width: 100%; height: 0; padding-top: 75.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHEma0pi7M/KuyTLa7yxS10m_8dwGZ9-A/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe></div>
-<p><a href="https://www.canva.com/design/DAHEma0pi7M/KuyTLa7yxS10m_8dwGZ9-A/view?utm_content=DAHEma0pi7M&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Gráfico Línea temporal Fechas Iconos Corporativo Profesional Colorido Multicolor</a> de ROCÍO MORENO GARCÍA</p>
+<p><a href="https://www.canva.com/design/DAHEma0pi7M/KuyTLa7yxS10m_8dwGZ9-A/view?utm_content=DAHEma0pi7M&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Gráfico Línea temporal Fechas Iconos Corporativo Profesional Colorido Multicolor</a> de ROCÍO MORENO GARCÍA</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774723710537-xhxzpatit","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí podéis ver los pasos que daremos durante las  sesiones de nuestro proyecto \"Los Animales\".</p>\n<p><br /></p>\n<p>LÍNEA TEMPORAL</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 75.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHEma0pi7M/KuyTLa7yxS10m_8dwGZ9-A/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHEma0pi7M/KuyTLa7yxS10m_8dwGZ9-A/view?utm_content=DAHEma0pi7M&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Gráfico Línea temporal Fechas Iconos Corporativo Profesional Colorido Multicolor</a> de ROCÍO MORENO GARCÍA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774723710537-xhxzpatit","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí podéis ver los pasos que daremos durante las  sesiones de nuestro proyecto \"Los Animales\".</p>\n<p><br /></p>\n<p>LÍNEA TEMPORAL</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 75.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHEma0pi7M/KuyTLa7yxS10m_8dwGZ9-A/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHEma0pi7M/KuyTLa7yxS10m_8dwGZ9-A/view?utm_content=DAHEma0pi7M&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Gráfico Línea temporal Fechas Iconos Corporativo Profesional Colorido Multicolor</a> de ROCÍO MORENO GARCÍA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -478,19 +682,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1774721654458-v9qmv68l6</odePageId>
+  <odePageId>page-mndhzadl-ks3h1v7yp</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>EVALUACIÓN</pageName>
-  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>EVALUACIÓN</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1774721654458-v9qmv68l6</odePageId>
+      <odePageId>page-mndhzadl-ks3h1v7yp</odePageId>
       <odeBlockId>block-1774724011356-u197rokq0</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -519,7 +747,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774721654458-v9qmv68l6</odePageId>
+          <odePageId>page-mndhzadl-ks3h1v7yp</odePageId>
           <odeBlockId>block-1774724011356-u197rokq0</odeBlockId>
           <odeIdeviceId>idevice-1774724011353-me0m3khyv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -543,11 +771,23 @@
 <p style="text-align: justify;">DIANA</p>
 <div style="position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHEmjZGOzU/Kq-ZYl-nAFVDzGpgPOzOpg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe></div>
-<p><a href="https://www.canva.com/design/DAHEmjZGOzU/Kq-ZYl-nAFVDzGpgPOzOpg/view?utm_content=DAHEmjZGOzU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Diana de Evaluación Educación Blanco Negro</a> de Rocío</p>
+<p><a href="https://www.canva.com/design/DAHEmjZGOzU/Kq-ZYl-nAFVDzGpgPOzOpg/view?utm_content=DAHEmjZGOzU&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Diana de Evaluación Educación Blanco Negro</a> de Rocío</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774724011353-me0m3khyv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Propuesta de Evaluación: S.A. \"Los Animales\"</p>\n<p style=\"text-align: justify;\">Para evaluar las competencias digitales y los saberes básicos de esta S.A., utilizaremos una combinación de observación directa sistemática y una herramienta visual de autoevaluación.</p>\n<p style=\"text-align: justify;\"> </p>\n<p style=\"text-align: justify;\">Instrumento 1: Rúbrica de Observación </p>\n<p style=\"text-align: justify;\">Este instrumento será utilizado por el docente durante las 15 sesiones, especialmente durante el uso de la pizarra digital y las actividades de lectoescritura.</p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>\n<p>¿Qué evalúa?: La adquisición de conceptos sobre animales, la competencia digital y la madurez en lectoescritura.<br /> </p>\n<p style=\"text-align: justify;\">Obtención de datos: Se recogerán evidencias diarias mediante anotaciones en un cuaderno de clase mientras los alumnos interactúan con los juegos digitales. Y rellenaremos un formulario Google teniendo en cuenta la tabla anterior. Dejo enlace del <a href=\"https://forms.gle/ge7jCr2cDFhfQfFG6\" id=\"link_2\">formulario</a><br /> </p>\n<p style=\"text-align: justify;\">Tratamiento de variables: No todo el alumnado tiene que realizar las letras en minúsculas, tendremos en cuenta su ritmo. Se ofrecerán plantillas de apoyo visual o se permitirá el uso de teclados digitales para reforzar la asociación fonema-grafema antes del trazo manual.<br /> </p>\n<p style=\"text-align: justify;\">Instrumento 2: Diana de Autoevaluación \"Mi Safari de Aprendizaje\"</p>\n<p style=\"text-align: justify;\">Este es un instrumento visual que los niños completarán al final del segundo trimestre. Consiste en un gráfico circular dividido en 4 porciones.</p>\n<p style=\"text-align: justify;\">¿Sé dónde viven los animales? (Hábitats).</p>\n<p style=\"text-align: justify;\">¿Sé usar la pizarra para jugar? Cumpliendo las normas (Competencia Digital).</p>\n<p style=\"text-align: justify;\">¿Puedo escribir nombres de animales? (Lectoescritura).</p>\n<p style=\"text-align: justify;\">¿Conozco animales en inglés? (Lengua extranjera).</p>\n<p style=\"text-align: justify;\">¿Qué evalúa?: La percepción del propio alumno sobre su aprendizaje y su motivación hacia las tareas.<br />Obtención de datos: El alumno colorea del centro hacia afuera. Cuanto más cerca del borde, más \"experto\" se siente. Esto ofrece datos cualitativos sobre su confianza.<br />Análisis y mejora: Si muchos alumnos colorean poco la sección de \"minúsculas\", los datos nos indican que debemos reforzar la motricidad fina o cambiar el enfoque de esa actividad en futuras unidades.</p>\n<p style=\"text-align: justify;\">DIANA</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHEmjZGOzU/Kq-ZYl-nAFVDzGpgPOzOpg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHEmjZGOzU/Kq-ZYl-nAFVDzGpgPOzOpg/view?utm_content=DAHEmjZGOzU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Diana de Evaluación Educación Blanco Negro</a> de Rocío</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774724011353-me0m3khyv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Propuesta de Evaluación: S.A. \"Los Animales\"</p>\n<p style=\"text-align: justify;\">Para evaluar las competencias digitales y los saberes básicos de esta S.A., utilizaremos una combinación de observación directa sistemática y una herramienta visual de autoevaluación.</p>\n<p style=\"text-align: justify;\"> </p>\n<p style=\"text-align: justify;\">Instrumento 1: Rúbrica de Observación </p>\n<p style=\"text-align: justify;\">Este instrumento será utilizado por el docente durante las 15 sesiones, especialmente durante el uso de la pizarra digital y las actividades de lectoescritura.</p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>\n<p>¿Qué evalúa?: La adquisición de conceptos sobre animales, la competencia digital y la madurez en lectoescritura.<br /> </p>\n<p style=\"text-align: justify;\">Obtención de datos: Se recogerán evidencias diarias mediante anotaciones en un cuaderno de clase mientras los alumnos interactúan con los juegos digitales. Y rellenaremos un formulario Google teniendo en cuenta la tabla anterior. Dejo enlace del <a href=\"https://forms.gle/ge7jCr2cDFhfQfFG6\" id=\"link_2\">formulario</a><br /> </p>\n<p style=\"text-align: justify;\">Tratamiento de variables: No todo el alumnado tiene que realizar las letras en minúsculas, tendremos en cuenta su ritmo. Se ofrecerán plantillas de apoyo visual o se permitirá el uso de teclados digitales para reforzar la asociación fonema-grafema antes del trazo manual.<br /> </p>\n<p style=\"text-align: justify;\">Instrumento 2: Diana de Autoevaluación \"Mi Safari de Aprendizaje\"</p>\n<p style=\"text-align: justify;\">Este es un instrumento visual que los niños completarán al final del segundo trimestre. Consiste en un gráfico circular dividido en 4 porciones.</p>\n<p style=\"text-align: justify;\">¿Sé dónde viven los animales? (Hábitats).</p>\n<p style=\"text-align: justify;\">¿Sé usar la pizarra para jugar? Cumpliendo las normas (Competencia Digital).</p>\n<p style=\"text-align: justify;\">¿Puedo escribir nombres de animales? (Lectoescritura).</p>\n<p style=\"text-align: justify;\">¿Conozco animales en inglés? (Lengua extranjera).</p>\n<p style=\"text-align: justify;\">¿Qué evalúa?: La percepción del propio alumno sobre su aprendizaje y su motivación hacia las tareas.<br />Obtención de datos: El alumno colorea del centro hacia afuera. Cuanto más cerca del borde, más \"experto\" se siente. Esto ofrece datos cualitativos sobre su confianza.<br />Análisis y mejora: Si muchos alumnos colorean poco la sección de \"minúsculas\", los datos nos indican que debemos reforzar la motricidad fina o cambiar el enfoque de esa actividad en futuras unidades.</p>\n<p style=\"text-align: justify;\">DIANA</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHEmjZGOzU/Kq-ZYl-nAFVDzGpgPOzOpg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHEmjZGOzU/Kq-ZYl-nAFVDzGpgPOzOpg/view?utm_content=DAHEmjZGOzU&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Diana de Evaluación Educación Blanco Negro</a> de Rocío</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -555,19 +795,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1774721677613-jjp1x4dah</odePageId>
+  <odePageId>page-mndhzadm-xuhw8oz0o</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>CRÉDITOS</pageName>
-  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>CRÉDITOS</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1774721677613-jjp1x4dah</odePageId>
+      <odePageId>page-mndhzadm-xuhw8oz0o</odePageId>
       <odeBlockId>block-1774724415049-gbgoveawg</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -596,16 +860,29 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774721677613-jjp1x4dah</odePageId>
+          <odePageId>page-mndhzadm-xuhw8oz0o</odePageId>
           <odeBlockId>block-1774724415049-gbgoveawg</odeBlockId>
           <odeIdeviceId>idevice-1774724415046-2dprzoq03</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p style="text-align: justify;">Autora: Rocío Moreno García.<br />Título: Situación de Aprendizaje "Los Animales".<br />Nivel: 2º Ciclo de Educación Infantil (5 años).<br />Herramientas utilizadas: eXeLearning 4.0, Canva, Genially, Padlet y Wakelet.<br />Licencia: Este material se publica bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA).<br />Descarga: Puedes solicitar el archivo fuente (.elp) para su edición y reutilización con fines educativos.</p>
+<p style="text-align: justify;">DESCARGA AQUÍ<a href="creditos.html" title="los-animales---infantil-5-anos.elpx" id="link_0">{{context_path}}/content/resources/los-animales---infantil-5-anos.elpx</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774724415046-2dprzoq03","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Autora: Rocío Moreno García.<br />Título: Situación de Aprendizaje \"Los Animales\".<br />Nivel: 2º Ciclo de Educación Infantil (5 años).<br />Herramientas utilizadas: eXeLearning 4.0, Canva, Genially, Padlet y Wakelet.<br />Licencia: Este material se publica bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA).<br />Descarga: Puedes solicitar el archivo fuente (.elp) para su edición y reutilización con fines educativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774724415046-2dprzoq03","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Autora: Rocío Moreno García.<br />Título: Situación de Aprendizaje \"Los Animales\".<br />Nivel: 2º Ciclo de Educación Infantil (5 años).<br />Herramientas utilizadas: eXeLearning 4.0, Canva, Genially, Padlet y Wakelet.<br />Licencia: Este material se publica bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA).<br />Descarga: Puedes solicitar el archivo fuente (.elp) para su edición y reutilización con fines educativos.</p>\n<p style=\"text-align: justify;\">DESCARGA AQUÍ<a href=\"exe-node:page-mndhzadm-xuhw8oz0o\" title=\"los-animales---infantil-5-anos.elpx\" id=\"link_0\">{{context_path}}/content/resources/los-animales---infantil-5-anos.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
