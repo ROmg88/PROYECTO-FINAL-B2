@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260330204354469JKA</value>
+    <value>202603302054117EZQ7X</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260330204354CG1BR1</value>
+    <value>20260330205411PKCGK5</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -865,11 +865,11 @@
           <odeIdeviceId>idevice-1774724415046-2dprzoq03</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p style="text-align: justify;">Autora: Rocío Moreno García.<br />Título: Situación de Aprendizaje "Los Animales".<br />Nivel: 2º Ciclo de Educación Infantil (5 años).<br />Herramientas utilizadas: eXeLearning 4.0, Canva, Genially, Padlet y Wakelet.<br />Licencia: Este material se publica bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA).<br />Descarga: Puedes solicitar el archivo fuente (.elp) para su edición y reutilización con fines educativos.</p>
+    <p style="text-align: justify;">Autora: Rocío Moreno García.<br />Título: Situación de Aprendizaje "Los Animales".<br />Nivel: 2º Ciclo de Educación Infantil (5 años).<br />Herramientas utilizadas: eXeLearning 4.0, Canva, Genially, Padlet y Wakelet.<br />Licencia: Este material se publica bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA).<br /><br /></p>
 <p style="text-align: justify;">DESCARGA AQUÍ</p>
-<p style="text-align: justify;"><a href="{{context_path}}/content/resources/los-animales---infantil-5-anos_2.elpx" title="los-animales---infantil-5-anos.elpx" id="link_1">{{context_path}}/content/resources/los-animales---infantil-5-anos_2.elpx</a></p>
+<p style="text-align: justify;"><a href="creditos.html" title="los-animales---infantil-5-anos.elpx" id="link_2">{{context_path}}/content/resources/los-animales---infantil-5-anos_3.elpx</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774724415046-2dprzoq03","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Autora: Rocío Moreno García.<br />Título: Situación de Aprendizaje \"Los Animales\".<br />Nivel: 2º Ciclo de Educación Infantil (5 años).<br />Herramientas utilizadas: eXeLearning 4.0, Canva, Genially, Padlet y Wakelet.<br />Licencia: Este material se publica bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA).<br />Descarga: Puedes solicitar el archivo fuente (.elp) para su edición y reutilización con fines educativos.</p>\n<p style=\"text-align: justify;\">DESCARGA AQUÍ</p>\n<p style=\"text-align: justify;\"><a href=\"{{context_path}}/content/resources/los-animales---infantil-5-anos_2.elpx\" title=\"los-animales---infantil-5-anos.elpx\" id=\"link_1\">{{context_path}}/content/resources/los-animales---infantil-5-anos_2.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774724415046-2dprzoq03","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Autora: Rocío Moreno García.<br />Título: Situación de Aprendizaje \"Los Animales\".<br />Nivel: 2º Ciclo de Educación Infantil (5 años).<br />Herramientas utilizadas: eXeLearning 4.0, Canva, Genially, Padlet y Wakelet.<br />Licencia: Este material se publica bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA).<br /><br /></p>\n<p style=\"text-align: justify;\">DESCARGA AQUÍ</p>\n<p style=\"text-align: justify;\"><a href=\"exe-node:page-mndiwr3n-fqjiweqk0\" title=\"los-animales---infantil-5-anos.elpx\" id=\"link_2\">{{context_path}}/content/resources/los-animales---infantil-5-anos_3.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
