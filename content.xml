@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260330171948KV6X64</value>
+    <value>20260330181937T2DIWE</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202603301719487RQF2Q</value>
+    <value>20260330181937VKE3WB</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -864,8 +864,10 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p style="text-align: justify;">Autora: Rocío Moreno García.<br />Título: Situación de Aprendizaje "Los Animales".<br />Nivel: 2º Ciclo de Educación Infantil (5 años).<br />Herramientas utilizadas: eXeLearning 4.0, Canva, Genially, Padlet y Wakelet.<br />Licencia: Este material se publica bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA).<br />Descarga: Puedes solicitar el archivo fuente (.elp) para su edición y reutilización con fines educativos.</p>
+<p style="text-align: justify;"><a href="exe-package:elp" id="link_0" download="exe-package:elp-name">"Descarga aquí el archivo fuente (editable) de este proyecto".</a></p>
+<p style="text-align: justify;"><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774724415046-2dprzoq03","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Autora: Rocío Moreno García.<br />Título: Situación de Aprendizaje \"Los Animales\".<br />Nivel: 2º Ciclo de Educación Infantil (5 años).<br />Herramientas utilizadas: eXeLearning 4.0, Canva, Genially, Padlet y Wakelet.<br />Licencia: Este material se publica bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA).<br />Descarga: Puedes solicitar el archivo fuente (.elp) para su edición y reutilización con fines educativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774724415046-2dprzoq03","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Autora: Rocío Moreno García.<br />Título: Situación de Aprendizaje \"Los Animales\".<br />Nivel: 2º Ciclo de Educación Infantil (5 años).<br />Herramientas utilizadas: eXeLearning 4.0, Canva, Genially, Padlet y Wakelet.<br />Licencia: Este material se publica bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA).<br />Descarga: Puedes solicitar el archivo fuente (.elp) para su edición y reutilización con fines educativos.</p>\n<p style=\"text-align: justify;\"><a href=\"exe-package:elp\" id=\"link_0\" download=\"exe-package:elp-name\">\"Descarga aquí el archivo fuente (editable) de este proyecto\".</a></p>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
