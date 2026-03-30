@@ -116,6 +116,7 @@ window.__ELPX_MANIFEST__={
     "content/resources/mceclip2.png",
     "content/resources/mceclip3.png",
     "content/resources/los-animales---infantil-5-anos.elpx",
+    "content/resources/los-animales---infantil-5-anos_1.elpx",
     "index.html",
     "html/proteccion-de-datos.html",
     "html/guia-didactica.html",
