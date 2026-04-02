@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202603302054117EZQ7X</value>
+    <value>20260402115355C1J999</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260330205411PKCGK5</value>
+    <value>20260402115355YDQBY6</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1774895425373</value>
+    <value>1775123236289</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -89,7 +89,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mndiwr3e-1has812se</odePageId>
+  <odePageId>page-mnhajj4t-840lkhrir</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>PRESENTACIÓN E INICIO</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -125,7 +125,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mndiwr3e-1has812se</odePageId>
+      <odePageId>page-mnhajj4t-840lkhrir</odePageId>
       <odeBlockId>block-1774721951982-hexliuyzu</odeBlockId>
       <blockName>INICIO</blockName>
       <iconName></iconName>
@@ -154,7 +154,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndiwr3e-1has812se</odePageId>
+          <odePageId>page-mnhajj4t-840lkhrir</odePageId>
           <odeBlockId>block-1774721951982-hexliuyzu</odeBlockId>
           <odeIdeviceId>idevice-1774721951979-f4sygb78w</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -189,7 +189,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mndiwr3i-v0xz7g265</odePageId>
+  <odePageId>page-mnhajj4v-475edppsp</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>PROTECCIÓN DE DATOS</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -225,7 +225,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mndiwr3i-v0xz7g265</odePageId>
+      <odePageId>page-mnhajj4v-475edppsp</odePageId>
       <odeBlockId>block-1774722301250-4chqvrq3x</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -254,7 +254,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndiwr3i-v0xz7g265</odePageId>
+          <odePageId>page-mnhajj4v-475edppsp</odePageId>
           <odeBlockId>block-1774722301250-4chqvrq3x</odeBlockId>
           <odeIdeviceId>idevice-1774722301246-6nhpabeoy</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -288,7 +288,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mndiwr3j-pajhdy99d</odePageId>
+  <odePageId>page-mnhajj4v-3eyoj2ji9</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>GUÍA DIDÁCTICA</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -324,7 +324,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mndiwr3j-pajhdy99d</odePageId>
+      <odePageId>page-mnhajj4v-3eyoj2ji9</odePageId>
       <odeBlockId>block-1774722749651-0626d0dn8</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -353,7 +353,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndiwr3j-pajhdy99d</odePageId>
+          <odePageId>page-mnhajj4v-3eyoj2ji9</odePageId>
           <odeBlockId>block-1774722749651-0626d0dn8</odeBlockId>
           <odeIdeviceId>idevice-1774722749648-1oa7ghdpg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -388,7 +388,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mndiwr3k-v46n7gfp6</odePageId>
+  <odePageId>page-mnhajj4w-kj42hlva0</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>PRODUCTO FINAL</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -424,7 +424,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mndiwr3k-v46n7gfp6</odePageId>
+      <odePageId>page-mnhajj4w-kj42hlva0</odePageId>
       <odeBlockId>block-1774722540371-xxop7jx0z</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -453,7 +453,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndiwr3k-v46n7gfp6</odePageId>
+          <odePageId>page-mnhajj4w-kj42hlva0</odePageId>
           <odeBlockId>block-1774722540371-xxop7jx0z</odeBlockId>
           <odeIdeviceId>idevice-1774722540368-jk4971c5i</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -485,7 +485,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mndiwr3l-ehik9fqk6</odePageId>
+  <odePageId>page-mnhajj4w-6fsep3dhw</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>CONTENIDOS/RECURSOS</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -521,7 +521,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mndiwr3l-ehik9fqk6</odePageId>
+      <odePageId>page-mnhajj4w-6fsep3dhw</odePageId>
       <odeBlockId>block-1774723331850-ot3fy4hpx</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -550,7 +550,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndiwr3l-ehik9fqk6</odePageId>
+          <odePageId>page-mnhajj4w-6fsep3dhw</odePageId>
           <odeBlockId>block-1774723331850-ot3fy4hpx</odeBlockId>
           <odeIdeviceId>idevice-1774723331844-pvd93q3j1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -583,7 +583,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mndiwr3l-m23cr93r1</odePageId>
+  <odePageId>page-mnhajj4w-jpewcw3eu</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>LÍNEA TEMPORAL</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -619,7 +619,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mndiwr3l-m23cr93r1</odePageId>
+      <odePageId>page-mnhajj4w-jpewcw3eu</odePageId>
       <odeBlockId>block-1774723710537-0lbfv48r6</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -648,7 +648,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndiwr3l-m23cr93r1</odePageId>
+          <odePageId>page-mnhajj4w-jpewcw3eu</odePageId>
           <odeBlockId>block-1774723710537-0lbfv48r6</odeBlockId>
           <odeIdeviceId>idevice-1774723710537-xhxzpatit</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -682,7 +682,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mndiwr3m-pgs5sapx2</odePageId>
+  <odePageId>page-mnhajj4x-oswwk48hu</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>EVALUACIÓN</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -718,7 +718,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mndiwr3m-pgs5sapx2</odePageId>
+      <odePageId>page-mnhajj4x-oswwk48hu</odePageId>
       <odeBlockId>block-1774724011356-u197rokq0</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -747,7 +747,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndiwr3m-pgs5sapx2</odePageId>
+          <odePageId>page-mnhajj4x-oswwk48hu</odePageId>
           <odeBlockId>block-1774724011356-u197rokq0</odeBlockId>
           <odeIdeviceId>idevice-1774724011353-me0m3khyv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -795,7 +795,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mndiwr3n-fqjiweqk0</odePageId>
+  <odePageId>page-mnhajj4x-tuf6r0m6r</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>CRÉDITOS</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -831,7 +831,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mndiwr3n-fqjiweqk0</odePageId>
+      <odePageId>page-mnhajj4x-tuf6r0m6r</odePageId>
       <odeBlockId>block-1774724415049-gbgoveawg</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -860,16 +860,16 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mndiwr3n-fqjiweqk0</odePageId>
+          <odePageId>page-mnhajj4x-tuf6r0m6r</odePageId>
           <odeBlockId>block-1774724415049-gbgoveawg</odeBlockId>
           <odeIdeviceId>idevice-1774724415046-2dprzoq03</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p style="text-align: justify;">Autora: Rocío Moreno García.<br />Título: Situación de Aprendizaje "Los Animales".<br />Nivel: 2º Ciclo de Educación Infantil (5 años).<br />Herramientas utilizadas: eXeLearning 4.0, Canva, Genially, Padlet y Wakelet.<br />Licencia: Este material se publica bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA).<br /><br /></p>
-<p style="text-align: justify;">DESCARGA AQUÍ</p>
-<p style="text-align: justify;"><a href="creditos.html" title="los-animales---infantil-5-anos.elpx" id="link_2">{{context_path}}/content/resources/los-animales---infantil-5-anos_3.elpx</a></p>
+<p style="text-align: justify;"><a href="los-animales---infantil-5-anos.elpx" id="link_0">DESCARGA ARCHIVO EDITABLE</a></p>
+<p style="text-align: justify;"></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774724415046-2dprzoq03","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Autora: Rocío Moreno García.<br />Título: Situación de Aprendizaje \"Los Animales\".<br />Nivel: 2º Ciclo de Educación Infantil (5 años).<br />Herramientas utilizadas: eXeLearning 4.0, Canva, Genially, Padlet y Wakelet.<br />Licencia: Este material se publica bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA).<br /><br /></p>\n<p style=\"text-align: justify;\">DESCARGA AQUÍ</p>\n<p style=\"text-align: justify;\"><a href=\"exe-node:page-mndiwr3n-fqjiweqk0\" title=\"los-animales---infantil-5-anos.elpx\" id=\"link_2\">{{context_path}}/content/resources/los-animales---infantil-5-anos_3.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774724415046-2dprzoq03","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Autora: Rocío Moreno García.<br />Título: Situación de Aprendizaje \"Los Animales\".<br />Nivel: 2º Ciclo de Educación Infantil (5 años).<br />Herramientas utilizadas: eXeLearning 4.0, Canva, Genially, Padlet y Wakelet.<br />Licencia: Este material se publica bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA).<br /><br /></p>\n<p style=\"text-align: justify;\"><a href=\"los-animales---infantil-5-anos.elpx\" id=\"link_0\">DESCARGA ARCHIVO EDITABLE</a></p>\n<p style=\"text-align: justify;\"></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
